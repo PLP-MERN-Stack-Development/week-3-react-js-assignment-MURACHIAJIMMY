@@ -114,7 +114,7 @@ eenshot 2025-06-18 204918" src="https://github.com/user-attachments/assets/675ee
 
 🚀** Get Started**
 
-Clone the repository: git clone https://github.com/your-repo/mastering-front-end-development.git
+Clone the repository: git clone https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-MURACHIAJIMMY.git
 
 Install dependencies: npm install
 
