@@ -25,7 +25,7 @@ The project is set up using Vite and features a well-organized structure with se
 
 The basic routing is configured using React Router.
 
-**📈 Key Features
+**📈** Key Features**
 **
 Reusable UI Components: The application features a range of reusable UI components, including:
 
@@ -107,7 +107,8 @@ eenshot 2025-06-18 204918" src="https://github.com/user-attachments/assets/675ee
 
 <img width="800" alt="Screenshot 2025-06-18 204837" src="https://github.com/user-attachments/assets/ac8d2ce0-f3e0-4b13-8f2b-2b68ee094505" />
 
-![Uploading Screenshot 2025-06-12 101851.png…]()
+
+<img width="762" alt="Screenshot 2025-06-18 211158" src="https://github.com/user-attachments/assets/1b8480bd-20e7-4b9d-ac3e-bc39a5bdf6b2" />
 
 <img width="556" alt="s" src="https://github.com/user-attachments/assets/fd24a29c-a213-4db7-8b83-5879ee19b58a" />
 
